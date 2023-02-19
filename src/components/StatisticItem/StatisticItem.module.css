@@ -1,0 +1,20 @@
+.item {
+  width: 40px;
+  height: 40px;
+  padding: 5px;
+  border: 1px solid grey;
+}
+
+.label {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+.percentage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
